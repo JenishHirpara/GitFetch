@@ -1,0 +1,16 @@
+body{
+background-image:url("photo22.jpg");    
+}
+
+.heading1{
+margin-left:80px;
+margin-top:80px;
+margin-bottom:30px;
+word-spacing:5px;
+font-size:60px;
+}
+.heading2{
+margin-left:80px;
+word-spacing:2px;
+font-size:28px;
+}
